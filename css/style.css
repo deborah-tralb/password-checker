@@ -126,3 +126,11 @@ form .text.medium{
 form .text.strong{
     color: #23ad5c;
 }
+
+/*Media Queries*/
+
+@media (max-width: 750px){
+    .container{
+        width: 90vw;
+    }
+}
